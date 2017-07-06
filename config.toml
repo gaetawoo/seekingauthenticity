@@ -1,4 +1,4 @@
-baseurl = "http://seekingauthenticity.netlify.com"
+baseurl = "http://seekingauthenticity.netlify.com/"
 languageCode = "en-us"
 title = "Jeremiah - Hugo Strata"
 theme = "strata"
