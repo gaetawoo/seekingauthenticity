@@ -2,7 +2,8 @@
 title: Starwars
 date: '2017-07-07T16:03:05-05:00'
 description: ''
-tags: []
+tags:
+- solo
 categories: []
 
 ---
