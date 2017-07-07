@@ -10,7 +10,7 @@ paginate = 10
 metaDataFormat = "yaml"
 
 [permalinks]
-    post = "/blog/:year/:month/:title/"
+    blog = "/blog/:year/:month/:title/"
 
 [params]
 	# To provide some metadata for search engines feel free to add a few
