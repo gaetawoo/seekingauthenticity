@@ -6,8 +6,8 @@ disqusShortname = ""
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
-paginate = 10
-metaDataFormat = "yaml"
+paginate = 5
+# metaDataFormat = "yaml"
 
 [params]
 	# To provide some metadata for search engines feel free to add a few
