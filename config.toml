@@ -6,11 +6,11 @@ disqusShortname = ""
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
-paginate = 2
-# metaDataFormat = "yaml"
+paginate = 10
+metaDataFormat = "yaml"
 
 [permalinks]
-    post = "/:year/:month/:title/"
+    post = "/blog/:year/:month/:title/"
 
 [params]
 	# To provide some metadata for search engines feel free to add a few
