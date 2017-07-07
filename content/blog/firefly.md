@@ -1,9 +1,16 @@
 ---
-date: '2017-07-07T17:30:41+00:00'
+date: '2017-07-07T17:30:00-05:00'
 description: ''
-tags: []
-categories: []
+tags:
+- solo
+- gorram
+categories:
+- movies
 title: Firefly
+type: post
 draft: true
 
 ---
+
+
+serenity
