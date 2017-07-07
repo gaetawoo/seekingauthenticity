@@ -9,6 +9,9 @@ googleAnalytics = ""
 paginate = 2
 # metaDataFormat = "yaml"
 
+[permalinks]
+    post = /:year/:month/:title/
+
 [params]
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
