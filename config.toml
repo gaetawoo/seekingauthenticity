@@ -148,5 +148,5 @@ metaDataFormat = "yaml"
 
 [[menu.main]]
 	name = "Blog"
-	url  = "post/"
+	url  = "blog/"
 	weight = 10
