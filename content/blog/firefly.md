@@ -8,7 +8,6 @@ categories:
 - movies
 title: Firefly
 type: post
-draft: true
 
 ---
 
