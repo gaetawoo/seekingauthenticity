@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: https://github.com/gaetawoo/seekingauthenticity/ # Gulp will replace this with your GitHub repository
+  repo: https://github.com/gaetawoo/seekingauthenticity # Gulp will replace this with your GitHub repository
   branch: master # Branch to update (master by default)
 # publish_mode: editorial_workflow
 
