@@ -1,9 +1,6 @@
 ---
-layout: blog
 title: CMS
 date: 2017-07-13T21:14:56.151Z
-thumbnail: /images/uploads/comicshave123.jpg
-rating: '4'
 ---
 This is to post a post
 
