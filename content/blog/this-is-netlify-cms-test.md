@@ -4,15 +4,19 @@ date: '2017-07-14T17:13:00Z'
 draft: true
 
 ---
-What do you want to do today! _This_ is a **test** of the **_emergency_** _broadcast_ **system** this is **_only_** a test
+What do you want to do today! *This* is a **test** of the ***emergency*** *broadcast* **system** this is ***only*** a test
 
-    to see if this works
+```
+to see if this works
 
+```
 
+<a href="https://www.netlify.com" data-vivaldi-spatnav-clickable="1">Update </a>update!
 
-[Update ](https://www.netlify.com)update!
+```
+code code
 
-    code code
+```
 
 `code`
 
@@ -20,18 +24,20 @@ test `code` test
 
 ```
 code
+
 ```
 
-{{&lt; tweet 847428910702665729 >}}
+{{< tweet 847428910702665729 >}}
 
 this
 
 is a
 
-{{&lt; youtube 8LYt2M4EwQo >}}
+{{< youtube 8LYt2M4EwQo >}}
 
 how you doing?
 
-[blah](http://www.namesilo.com)
+<a href="http://www.namesilo.com" data-vivaldi-spatnav-clickable="1">blah</a>
 
+{{< tweet 847428910702665729 >}}
 
