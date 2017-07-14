@@ -1,6 +1,8 @@
 ---
 title: This is Netlify cms test
 date: '2017-07-14T17:13:00Z'
+draft: true
+
 ---
 What do you want to do today! _This_ is a **test** of the **_emergency_** _broadcast_ **system** this is **_only_** a test
 
