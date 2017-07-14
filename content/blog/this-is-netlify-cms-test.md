@@ -13,6 +13,4 @@ Update update!
 
 is a
 
-<center><iframe width="100%" height="100%" src="https://www.youtube.com/embed/8LYt2M4EwQo" frameborder="0" allowfullscreen="" async="" preload=""></iframe></center>
-
-test
+<center><iframe width="100%" height="100%" src="https://www.youtube.com/embed/8LYt2M4EwQo" frameborder="10" allowfullscreen="" async="" preload=""></iframe></center>
