@@ -10,6 +10,16 @@ What do you want to do today! _This_ is a **test** of the **_emergency_** _broad
 
 [Update ](https://www.netlify.com)update!
 
+    code code
+
+`code`
+
+test `code` test
+
+```
+code
+```
+
 {{&lt; tweet 847428910702665729 >}}
 
 this
@@ -21,4 +31,5 @@ is a
 how you doing?
 
 [blah](http://www.namesilo.com)
+
 
