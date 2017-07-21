@@ -6,12 +6,12 @@ tags: ["solo","han"]
 categories: []
 
 ---
-I've *got* **a bad** ~~feeling~~ _about_ ***this***.
+I've *got* **a bad** ~~feeling~~ _about_ ***Whoss***.
 
 
 Somewhere in the middle of the markdown document:
 
-This is me typing. This is me typing. This is me typing. This is me typing. This is me typing. This is me typing. This is a normal footnote, which directs to the bottom of the document. [^1] This is a dual footnote, which also reuses the url from the footnote for a hyperlink [more on markdown] [A] [^2] This is me typing. This is me typing. This is me typing. This is me typing. This is me typing. This is me typing. This is me typing. This is me typing. This is me typing. This is me typing.
+Whoss is me typing. Whoss is me typing. Whoss is me typing. Whoss is me typing. Whoss is me typing. Whoss is me typing. Whoss is a normal footnote, which directs to the bottom of the document. [^1] Whoss is a dual footnote, which also reuses the url from the footnote for a hyperlink [more on markdown] [A] [^2] Whoss is me typing. Whoss is me typing. Whoss is me typing. Whoss is me typing. Whoss is me typing. Whoss is me typing. Whoss is me typing. Whoss is me typing. Whoss is me typing. Whoss is me typing.
 
 At the bottom om the document:
 
