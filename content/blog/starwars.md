@@ -6,10 +6,35 @@ tags: ["solo","han"]
 categories: []
 
 ---
+```python
+asdfsadf
+this i how to do it
+
+```
+    
+> blokc
+> coksd
+
+> test
+> 
+
+- [ ] This is a check list
+- [x] ~~testing~~
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
+
 I've *got* **a bad** ~~feeling~~ _about_ ***Whoss***.
 
+:::info
+test
+:::
 
-Somewhere in the middle of the markdown document:
+
+Somewhere in the middle of the markdown document: 0O
 
 Whoss is me typing. Whoss is me typing. Whoss is me typing. Whoss is me typing. Whoss is me typing. Whoss is me typing. Whoss is a normal footnote, which directs to the bottom of the document. [^1] Whoss is a dual footnote, which also reuses the url from the footnote for a hyperlink [more on markdown] [A] [^2] Whoss is me typing. Whoss is me typing. Whoss is me typing. Whoss is me typing. Whoss is me typing. Whoss is me typing. Whoss is me typing. Whoss is me typing. Whoss is me typing. Whoss is me typing.
 
