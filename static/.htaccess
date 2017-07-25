@@ -1,9 +1,0 @@
-# Hide files starting with a dot (.htaccess and .htpasswd in particular)
-# <Files .*>
-# order allow,deny
-# deny from all
-# </Files>
-
-RewriteEngine On
-RewriteCond %{HTTP:X-Forwarded-SSL} !on
-RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
