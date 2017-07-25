@@ -1,8 +1,8 @@
 # Hide files starting with a dot (.htaccess and .htpasswd in particular)
-<Files .*>
-order allow,deny
-deny from all
-</Files>
+# <Files .*>
+# order allow,deny
+# deny from all
+# </Files>
 
 RewriteEngine On
 RewriteCond %{HTTP:X-Forwarded-SSL} !on
