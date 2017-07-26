@@ -1,4 +1,4 @@
-baseurl = "https://www.seekingauthenticity.net/"
+baseurl = "/"
 languageCode = "en-us"
 title = "Jeremiah - Hugo Strata"
 theme = "strata"
